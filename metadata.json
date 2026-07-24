@@ -1,6 +1,6 @@
 {
-  "name": "Koperasi Desa Merah Putih",
-  "description": "Microsite Resmi Koperasi Desa Merah Putih Kelurahan Margahayu Utara, Kota Bandung, Jawa Barat",
+  "name": "Koperasi Merah Putih Margahayu Utara",
+  "description": "Microsite Resmi Koperasi Merah Putih Kelurahan Margahayu Utara, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
